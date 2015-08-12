@@ -1,10 +1,10 @@
 body {
     margin-top: 20px;
-    color : blue;
+  
 }
 
 .navbar .navbar-brand {
-    color: #777777;
+    color: blue;
 }
 .navbar .brand-name:hover {
     text-decoration: underline;
