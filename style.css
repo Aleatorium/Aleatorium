@@ -4,7 +4,7 @@ body {
 }
 
 .navbar .navbar-brand {
-    color: blue;
+    color: #77777;
 }
 .navbar .brand-name:hover {
     text-decoration: underline;
