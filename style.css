@@ -1,10 +1,17 @@
+
 body {
     margin-top: 20px;
-  
+}
+body {
+    background: url(http://i.imgur.com/KhNYVdx.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .navbar .navbar-brand {
-    color: black ;
+    color: #777777;
 }
 .navbar .brand-name:hover {
     text-decoration: underline;
@@ -71,13 +78,4 @@ body {
 .btn kbd,
 .btn .label {
     text-shadow: none;
-}
-/* Miklagard customizations */
-
-body {
-    background: url(http://i.imgur.com/KhNYVdx.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
 }
