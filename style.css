@@ -72,3 +72,10 @@ body {
 .btn .label {
     text-shadow: none;
 }
+body {
+    background: url(http://i.imgur.com/KhNYVdx.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
